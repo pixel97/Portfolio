@@ -12,8 +12,8 @@ const Header = () => {
         </div>
         <h3>Anushka Jain</h3>
         <p>
-          Product Engineer Coop @Akoya, Graduate Computer Science student, Full
-          Stack Developer, Looking for full time opportunities.
+          Graduate Computer Science student, Full
+          Stack Developer, Interned as Product Engineer Coop @Akoya, Looking for full time opportunities starting May 2024.
         </p>
         <div className="header__cta">
           <a href="#contact" className="btn primary">

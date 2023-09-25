@@ -27,12 +27,13 @@ const About = () => {
             ))}
           </div>
           <p>
-            A self motivated,collaborative and self taught Software Developer,
+            A self motivated, collaborative and self taught Software Developer,
             currently pursuing master’s in computer science at Northeastern
             University, Boston. I enjoy problem solving, building applications
             and learning new technologies. I entered into corporate world 2
             years ago and since then the journey has been a joyful ride as a
-            software developer.
+            software developer. Recently I interned as a Software Developer at Akoya involving backend
+            and front end development.
           </p>
           <p>
             My technical skills include : Golang, Java, Python, R, SQL, React,

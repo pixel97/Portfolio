@@ -2,6 +2,7 @@ import ExpenseTracker from "../../assets/expense.webp";
 import TuiterImage from "../../assets/Tuiter.png";
 import Guitar from "../../assets/guitar.png";
 import BoardGame from "../../assets/boardGame.jpg";
+import CalorieTracker from "../../assets/CalorieTracker.webp";
 const data = [
   {
     id: 1,
@@ -53,6 +54,16 @@ const data = [
     title: "Expense Tracker",
     desc:
       "An application used to track daily expenses along with add, edit and delete expenses. The expenses can be viewed daily, monthly or yearly basis.",
+    // Skills: ["React", "NodeJs", "MySql"],
+    // github: "https://github.com/milindbasavaraja/Blog-Post",
+  },
+  {
+    id: 5,
+    category: "FullStack",
+    image: CalorieTracker,
+    title: "Calorie Tracker",
+    desc:
+        "An application used to track calorie intake of the users. The calories can be viewed daily and monitored with multiple features.",
     // Skills: ["React", "NodeJs", "MySql"],
     // github: "https://github.com/milindbasavaraja/Blog-Post",
   },
