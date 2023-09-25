@@ -1,9 +1,9 @@
 {
-  "main.css": "/Portfolio/static/css/main.edc5c789.chunk.css",
-  "main.js": "/Portfolio/static/js/main.22e32b98.chunk.js",
-  "main.js.map": "/Portfolio/static/js/main.22e32b98.chunk.js.map",
-  "static/js/1.72638e97.chunk.js": "/Portfolio/static/js/1.72638e97.chunk.js",
-  "static/js/1.72638e97.chunk.js.map": "/Portfolio/static/js/1.72638e97.chunk.js.map",
+  "main.css": "/Portfolio/static/css/main.cd4aab8f.chunk.css",
+  "main.js": "/Portfolio/static/js/main.923585b5.chunk.js",
+  "main.js.map": "/Portfolio/static/js/main.923585b5.chunk.js.map",
+  "static/js/1.0839f35f.chunk.js": "/Portfolio/static/js/1.0839f35f.chunk.js",
+  "static/js/1.0839f35f.chunk.js.map": "/Portfolio/static/js/1.0839f35f.chunk.js.map",
   "runtime~main.js": "/Portfolio/static/js/runtime~main.3b961160.js",
   "runtime~main.js.map": "/Portfolio/static/js/runtime~main.3b961160.js.map",
   "static/media/Logo.jpeg": "/Portfolio/static/media/Logo.5530c558.jpeg",
@@ -13,8 +13,9 @@
   "static/media/expense.webp": "/Portfolio/static/media/expense.faac0787.webp",
   "static/media/guitar.png": "/Portfolio/static/media/guitar.85c9f8b5.png",
   "static/media/boardGame.jpg": "/Portfolio/static/media/boardGame.9ef0f3e2.jpg",
-  "static/css/main.edc5c789.chunk.css.map": "/Portfolio/static/css/main.edc5c789.chunk.css.map",
+  "static/media/CalorieTracker.webp": "/Portfolio/static/media/CalorieTracker.84142d5c.webp",
+  "static/css/main.cd4aab8f.chunk.css.map": "/Portfolio/static/css/main.cd4aab8f.chunk.css.map",
   "index.html": "/Portfolio/index.html",
-  "precache-manifest.1322c134b805f2c8c2ecef15ef4b3a49.js": "/Portfolio/precache-manifest.1322c134b805f2c8c2ecef15ef4b3a49.js",
+  "precache-manifest.121e0dee3ed30b4aad4171aaa782873d.js": "/Portfolio/precache-manifest.121e0dee3ed30b4aad4171aaa782873d.js",
   "service-worker.js": "/Portfolio/service-worker.js"
 }
